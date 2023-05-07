@@ -1,4 +1,4 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Chang%20Hyun%20Lee&height=150&fontSize=60&fontAlign=60&desc=Frontend%20Developer&descAlignY=75&descAlign=60)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Chang%20Hyun%20Lee&height=150&fontSize=60&fontAlign=50&desc=Frontend%20Developer&descAlignY=75&descAlign=60)
 
 
 <div align=center>
