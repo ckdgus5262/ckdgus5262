@@ -10,12 +10,12 @@
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
-	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=MongoDB&logoColor=white" />
-	<img src="https://img.shields.io/badge/Node-339933?style=flat&logo=MongoDB&logoColor=white" />
+	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
+	<img src="https://img.shields.io/badge/Node-339933?style=flat&logo=Node.js&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
 	<img src="https://img.shields.io/badge/Bootstrap-7952B?style=flat&logo=Bootstrap&logoColor=white" />
-	<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=Selenium&logoColor=white" />
+	<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/MongoDB-003545?style=flat&logo=MongoDB&logoColor=white" />
@@ -34,7 +34,7 @@
 	<br>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=MongoDB&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
 </div>
 <br><br>
