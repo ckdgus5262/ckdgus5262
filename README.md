@@ -37,10 +37,10 @@
 </div>
 <br><br>
 <div align=center>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckdtns5262&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckdgus5262&layout=compact"><br><br>
 </div>
 <div align=center>
-<img src="https://github-readme-stats.vercel.app/api?username=ckdtns5262&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=ckdgus5262&show_icons=true">
 </div>
 
 
